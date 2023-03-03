@@ -1,7 +1,6 @@
 ---
 BasedOnStyle: LLVM
 ColumnLimit: 300
-SpacesInParentheses: true
 TabWidth: 2
 ---
 
